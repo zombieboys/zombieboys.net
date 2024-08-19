@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-0.0.0-orange.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.0.1-orange.svg?style=for-the-badge)
 
 # Zombie Boys
 
