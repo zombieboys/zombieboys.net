@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/version-0.0.0-orange.svg?style=for-the-badge)
+
 # Zombie Boys
 
 ## Official Website
